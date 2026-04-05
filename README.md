@@ -1,10 +1,21 @@
-Student Management System (Java)
+# Student Management System (Java)
 
-This is a simple console-based Java project that allows:
+## About Project
+This is a simple console-based Java project.
+
+## Features
 - Add Student
-- View Student List
+- View Students
+- Simple Menu System
 
-Tech Used:
+## Tech Used
 - Java
 - ArrayList
 - Scanner
+
+## How to Run
+1. Compile: javac StudentManagementSystem.java
+2. Run: java StudentManagementSystem
+
+## Author
+Kajal Kumari
